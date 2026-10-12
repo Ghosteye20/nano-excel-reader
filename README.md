@@ -13,9 +13,9 @@ to the sheet and row they came from.
 
 - Windows 10 or 11, 64-bit
 - 8 GB RAM (16 GB recommended)
-- About 5 GB free disk space
+- About 3 GB free disk space
 - Internet once, for the first-run AI model download (about 2.5 GB)
-- No graphics card needed. An NVIDIA card is used automatically if present.
+- No graphics card needed. The AI runs on your computer's processor (CPU).
 
 ## Privacy
 
@@ -34,7 +34,7 @@ The only internet use is the one-time AI model download.
 - Good at finding and listing information; weaker at counting and totals.
   Check important numbers in Excel.
 - Answers can sometimes be wrong. Verify against your original file.
-- Without a graphics card, an answer can take a minute or more.
+- On slower computers, an answer can take a minute or more.
 
 ## Licence
 
