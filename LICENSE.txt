@@ -1,0 +1,24 @@
+Nano Excel Reader - Licence
+Copyright (c) 2026 Bhargav.
+Contact me on "bhargav4142@gmail.com
+All rights reserved.
+
+1. You may download, install and use Nano Excel Reader free of charge,
+   for personal or work use.
+
+2. You may share the original, unchanged installer with others,
+   free of charge.
+
+3. You may not:
+   - sell, rent or charge money for Nano Excel Reader
+   - modify it, or decompile or reverse-engineer it, except where the law allows
+   - remove this licence or the copyright notice
+
+4. Third-party parts (Ollama, the Qwen AI model, Python and the libraries
+   listed in the LICENSES folder) are covered by their own licences, not by
+   this one. Nothing here limits your rights under those licences.
+
+5. Nano Excel Reader is provided "as is", without warranty of any kind.
+   AI answers can be wrong; check important information against your
+   original file. The author is not liable for any loss or damage arising
+   from its use.
